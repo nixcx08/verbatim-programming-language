@@ -28,7 +28,7 @@ Its defining principle is that the compiler never guesses. Verbatim does not per
 ## Technologies Used
 
 - Python
-- Tkinter (if applicable)
+- Tkinter
 
 ## Project Structure
 
