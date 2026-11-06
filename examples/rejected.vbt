@@ -1,0 +1,4 @@
+print("Starting...")
+let age: int = 15
+let label: string = "Age: " + age
+print(label)

@@ -1,0 +1,2 @@
+let a: [int] = [4, 8, 15]
+print(str(a[3]))

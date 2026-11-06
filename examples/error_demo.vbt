@@ -1,0 +1,3 @@
+# Type error demo: Verbatim never guesses
+let x: int = 3
+print("5" + x)

@@ -1,0 +1,7 @@
+# Verbatim never guesses: you convert explicitly
+let text: string = "5"
+let total: int = to_int(text) + 3
+print("Total: " + str(total))
+
+# print("Total: " + total)
+# ^ error: cannot add string and int

@@ -1,0 +1,10 @@
+let x: int = 1
+func show() {
+    print(str(x))
+}
+if true {
+    let x: int = 2
+    print(str(x))
+    show()
+}
+print(str(x))

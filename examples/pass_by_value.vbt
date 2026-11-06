@@ -1,0 +1,7 @@
+func change(a: [int]) {
+    a[0] = 99
+}
+
+let n: [int] = [1, 2]
+change(n)
+print(str(n[0]))

@@ -1,0 +1,7 @@
+let n: int = 3
+let total: int = 0
+while n > 0 {
+    total = total + n
+    n = n - 1
+}
+print(str(total))
